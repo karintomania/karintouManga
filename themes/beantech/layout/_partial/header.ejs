@@ -1,0 +1,27 @@
+<!-- Modified by Yu-Hsuan Yen -->
+<!-- Post Header -->
+<style type="text/css">
+    header.intro-header{
+            background-image: url('<%= config.root + config["header-img"] %>') 
+    }
+    <% if (config.signature) {%>
+    #signature{
+        background-image: url('<%= config.root + config["signature-img"] %>');
+    }
+    <%}%>
+</style>
+
+<header class="intro-header" >
+    <!-- Signature -->
+    <div id="signature">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
