@@ -7,6 +7,86 @@
     </url>
 
     <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-1210-sangetuki/</loc>
+        <lastmod>2020-12-10T23:56:16.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-1210-recruit/</loc>
+        <lastmod>2020-12-10T23:56:16.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-1025-godclass/</loc>
+        <lastmod>2020-12-10T09:06:36.263Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-1009-language/</loc>
+        <lastmod>2020-12-10T09:04:46.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-0920-breakfast/</loc>
+        <lastmod>2020-12-10T09:02:00.311Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-0824-taida/</loc>
+        <lastmod>2020-12-10T08:58:06.496Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-0820-api/</loc>
+        <lastmod>2020-12-10T08:56:41.431Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-0817-wbs/</loc>
+        <lastmod>2020-12-10T08:54:29.312Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-0811-lifehack/</loc>
+        <lastmod>2020-12-10T08:51:33.798Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.manga.bedroomcomputing.com/2020-0809-productivity/</loc>
+        <lastmod>2020-12-10T08:49:38.332Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.manga.bedroomcomputing.com/2020-1208-android/</loc>
         <lastmod>2020-12-09T22:44:50.358Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -79,14 +159,6 @@
     </url>
 
     <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-1025-godclass/</loc>
-        <lastmod>2020-11-29T01:29:14.905Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.manga.bedroomcomputing.com/2020-1021-wabi/</loc>
         <lastmod>2020-11-29T01:29:14.848Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -97,22 +169,6 @@
     <url>
         <loc>https://www.manga.bedroomcomputing.com/2020-1018-output/</loc>
         <lastmod>2020-11-29T01:29:14.790Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-1009-language/</loc>
-        <lastmod>2020-11-29T01:29:14.732Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-0920-breakfast/</loc>
-        <lastmod>2020-11-29T01:29:14.671Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -143,48 +199,8 @@
     </url>
 
     <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-0824-taida/</loc>
-        <lastmod>2020-11-29T01:29:14.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-0820-api/</loc>
-        <lastmod>2020-11-29T01:29:14.246Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-0817-wbs/</loc>
-        <lastmod>2020-11-29T01:29:14.141Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-0811-lifehack/</loc>
-        <lastmod>2020-11-29T01:29:13.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.manga.bedroomcomputing.com/2020-1120-password/</loc>
         <lastmod>2020-11-29T01:09:52.732Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.manga.bedroomcomputing.com/2020-0809-productivity/</loc>
-        <lastmod>2020-11-29T00:19:51.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
