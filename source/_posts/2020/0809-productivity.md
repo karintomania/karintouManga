@@ -5,6 +5,7 @@ tags:
   - アニマルシステムズ
 date: 2020-08-09 22:11:24
 subtitle:
+featured_image: feature.png
 header-img:
 ---
 
