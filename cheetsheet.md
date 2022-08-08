@@ -16,6 +16,9 @@ hexo clean
 まとめてやる
 hexo clean && hexo generate && hexo deploy
 
+Docker
+docker exec manga
+
 
 # タグスクリプト
 ![](initializr.png) //　トップページでしくじる
