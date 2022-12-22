@@ -50,3 +50,10 @@ tags: [Java, PHP, Java script]
 
 ## 画像
 feature は10 x 5くらいでOK
+
+## Deployエラー
+```
+rm -rf .deploy_git && \
+git config --global user.name karintomania && git config --global user.email 19652340+karintomania@users.noreply.github.com && \
+hexo deploy
+```
