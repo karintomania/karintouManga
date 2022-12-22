@@ -1,0 +1,12 @@
+version: '3'
+services:
+  karinto-manga:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    container_name: karinto-manga
+    volumes:
+      - .:/app
+    ports:
+      - "5001:5001"
+    user: node
