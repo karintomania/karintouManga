@@ -17,7 +17,7 @@ hexo clean
 hexo clean && hexo generate && hexo deploy
 
 Docker
-docker exec manga
+docker exec karinto-manga
 
 
 # タグスクリプト
