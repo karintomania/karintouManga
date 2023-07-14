@@ -1,6 +1,5 @@
 ---
 title: {{ title }}
-subtitle:
 catalog: false
 featured_image: feature.png
 tags: [アニマルシステムズ]
