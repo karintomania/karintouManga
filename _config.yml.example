@@ -162,5 +162,5 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://karintomania:103fb487963fad619fe60569c2da6d129f0c08e8@github.com/karintomania/karintouManga/
+  repository: https://karintomania:xxx@github.com/karintomania/karintouManga/
   branch: gh-page
