@@ -7,14 +7,14 @@ hexo generate
 hexo deploy
 
 ドラフト作成  
-hexo new draft {draft名}  
-hexo publish {draft名}    
+docker exec karinto-manga hexo new draft {draft名}  
+docker exec karinto-manga hexo publish {draft名}    
 
 諸々きれいにする  
 hexo clean
 
 まとめてやる
-hexo clean && hexo generate && hexo deploy
+docker exec karinto-manga hexo clean && hexo generate && hexo deploy
 
 Docker
 docker exec karinto-manga
