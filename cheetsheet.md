@@ -14,7 +14,7 @@ docker exec karinto-manga hexo publish {draft名}
 hexo clean
 
 まとめてやる
-docker exec karinto-manga hexo clean && hexo generate && hexo deploy
+docker exec karinto-manga bash -c 'hexo clean && hexo generate && hexo deploy'
 
 Docker
 docker exec karinto-manga
