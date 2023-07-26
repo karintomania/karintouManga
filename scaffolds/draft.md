@@ -7,7 +7,7 @@ tags: [アニマルシステムズ]
 
 ## タイトル
 
-{% asset_img test.jpg %}
+{% asset_img test.png %}
 
 
 ## ひとこと
